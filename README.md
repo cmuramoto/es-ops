@@ -2,7 +2,7 @@
 
 Simple Elastic Search Bi-Directional Java API.
 
-Features:
+**Features**:
 
 * CRUD
 * Bulk Insert/Update
@@ -10,7 +10,7 @@ Features:
 * Query Builders
 * Simple/Low Coupling (Requires only http-client and Jackson)
 
-Notes:
+**Notes**:
 
 * Elastic Rest Client + Sniffer have been repackaged to com.nc.es.rest to do some minor teweakings
-* Just run the Tests :)
+* Just **Run the Tests** :)
