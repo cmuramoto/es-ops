@@ -1,4 +1,4 @@
-package br.atech.commons.es;
+package com.nc.es.ops;
 
 import org.apache.http.HttpHost;
 import org.slf4j.Logger;

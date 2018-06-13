@@ -1,4 +1,4 @@
-package br.atech.commons.es;
+package com.nc.es.ops;
 
 import com.nc.es.api.IElasticSearchObject;
 

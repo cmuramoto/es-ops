@@ -1,4 +1,4 @@
-package br.atech.commons.es;
+package com.nc.es.ops;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

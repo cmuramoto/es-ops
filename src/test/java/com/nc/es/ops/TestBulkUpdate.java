@@ -1,4 +1,4 @@
-package br.atech.commons.es;
+package com.nc.es.ops;
 
 import java.util.List;
 import java.util.stream.IntStream;
