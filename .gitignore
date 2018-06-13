@@ -1,0 +1,11 @@
+*.class
+.classpath
+.project
+.settings
+target/
+dependency-reduced-pom.xml
+Debug
+Release
+hotspot*
+hs_err*
+
